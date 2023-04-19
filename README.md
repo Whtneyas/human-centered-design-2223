@@ -8,7 +8,8 @@ For this project we have to design for one specific person with a disability. Th
 
 The tester for my design is Nicollette Besemer 
 
-### About Nicollete Besemer 
+### About Nicollete Besemer
+
 
 Nicolette has limited use of her limbs. She uses a wheelchair to move around, and on her computer, she uses speech software and a drawing tablet instead of a mouse. This makes navigation difficult because she cannot use shortcuts. Nicolette is very involved in accessibility. In addition, she organizes a lot for the neighborhood and other volunteers. She used to be a geologist by profession and enjoys visiting natural wonders. She is also passionate about nature.
 
