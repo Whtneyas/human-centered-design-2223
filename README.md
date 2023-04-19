@@ -18,11 +18,48 @@ Nicolette has limited use of her limbs. She uses a wheelchair to move around, an
 For her work, Nicolette reads and shares a lot of text pieces on, among other places, the website of the municipality. It is important to be able to extract the correct pieces and forward them. Without the right-click or shortcut keys, it is almost impossible to cut and paste. Design a way to navigate, select, cut, and paste text using speech and a drawing tablet.
 
 
+### Questions for Nicollette Besemer
+I sat with my group who also are to design for Nicollete to brainstorm on what ewe can do for Nicollette and also came up with questions we can ask Nicolletete during the interview so that we get a grasp of what we need to include in the deisgn and what not. 
+
+
+1. What type of tablet are you currently using? 
+1. After testing the product that we have made. What went well and what went bad. 
+2. Why are you using a tablet and not a mouse? 
+4. What are you able to do and what can't you do? 
+5. Wat voor hinder heb je? 
+6. Watv oor programmas en bestanden gebruik je? 
+7. Hoe gebruik je spraak op dit moment? 
+8. Er bestaat er alkopieer en plakken op tekentabletten. How werkt het bij u? 
+9. Waarom is er voor spraak gekoze? 
+10. 
+
+
+
+## Exclusive design principles
+Exclusive designs are principles implemented when designing for people who are not mostly included when making designs example peopele with disabilitie. 
+
+
+### Study Situation
+We have to first understand and study people with disabilites.You cannot design for people with disabilities if you don't understand them and try to know the situation they are in. 
+
+
+### Ignore Conventions
+
+### Prioritise Identity
+
+### Add Nonsense
+
+
+
+
+
+Formulating questions with how, why and what? 
 
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
 <!-- ☝️ replace this description with a description of your own work -->
+
 
 <!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
 
