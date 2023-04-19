@@ -27,11 +27,30 @@ I sat with my group who also are to design for Nicollete to brainstorm on what e
 2. Why are you using a tablet and not a mouse? 
 4. What are you able to do and what can't you do? 
 5. Wat voor hinder heb je? 
-6. Watv oor programmas en bestanden gebruik je? 
+6. What type of files and apps do you use
 7. Hoe gebruik je spraak op dit moment? 
 8. Er bestaat er alkopieer en plakken op tekentabletten. How werkt het bij u? 
 9. Waarom is er voor spraak gekoze? 
 10. 
+
+### Possible solutions
+
+So before i test my design with Nicollette i thooght of some possible solutions to this problem. 
+
+- **Navigating- Voice command**
+
+ For navigating on the website the user can use voice commands to navigate through the text.For example, say "scroll up" or "scroll down" to  move through the document.
+
+
+- **Selecting**
+
+  Use the drawing tablet to select text. Draw a circle around the text you want to select, and then say "select" or "highlight." The selected text will be highlighted on the screen.
+
+ **Cutting**
+ Draw a line through the selected text using the drawing tablet, and then say "cut" or "delete." The selected text will be removed from the document.
+
+ Pasting ****
+ Move the cursor to the location where you want to paste the text, and then say "paste." The text you cut earlier will be inserted at the cursor location.
 
 
 
