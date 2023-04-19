@@ -1,26 +1,25 @@
-# Human Centered Design
+# Human Centered Design ✍️
 
 ## What is the Project? 
 For this project we have to design for one specific person with a disability. The purpose of this project is to get deeper into the users and to learn how to test your designs. To test how your  well your specific person can use your design or product. I can achieve a better design  by prototyping and testing my design with this specific person.  
 
 
-## Tester for my design 
+## Tester for my design:🧑‍💻
 
 The tester for my design is Nicollette Besemer 
 
-### About Nicollete Besemer
+### About Nicollete Besemer👩
 
 
 Nicolette has limited use of her limbs. She uses a wheelchair to move around, and on her computer, she uses speech software and a drawing tablet instead of a mouse. This makes navigation difficult because she cannot use shortcuts. Nicolette is very involved in accessibility. In addition, she organizes a lot for the neighborhood and other volunteers. She used to be a geologist by profession and enjoys visiting natural wonders. She is also passionate about nature.
 
 
-### Problem: Copy and paste
+### Problem: Copy and paste Pasting✂️📜
 For her work, Nicolette reads and shares a lot of text pieces on, among other places, the website of the municipality. It is important to be able to extract the correct pieces and forward them. Without the right-click or shortcut keys, it is almost impossible to cut and paste. Design a way to navigate, select, cut, and paste text using speech and a drawing tablet.
 
 
-### Questions for Nicollette Besemer
+### Questions for Nicollette Besemer❔❔
 I sat with my group who also are to design for Nicollete to brainstorm on what ewe can do for Nicollette and also came up with questions we can ask Nicolletete during the interview so that we get a grasp of what we need to include in the deisgn and what not. 
-
 
 1. What type of tablet are you currently using? 
 1. After testing the product that we have made. What went well and what went bad. 
@@ -37,24 +36,26 @@ I sat with my group who also are to design for Nicollete to brainstorm on what e
 
 So before i test my design with Nicollette i thooght of some possible solutions to this problem. 
 
-- **Navigating- Voice command**
+- **Navigating- Voice command** 🧭
 
  For navigating on the website the user can use voice commands to navigate through the text.For example, say "scroll up" or "scroll down" to  move through the document.
 
 
-- **Selecting**
+- **Selecting** 
 
   Use the drawing tablet to select text. Draw a circle around the text you want to select, and then say "select" or "highlight." The selected text will be highlighted on the screen.
 
- **Cutting**
+- **Cutting**
+ 
  Draw a line through the selected text using the drawing tablet, and then say "cut" or "delete." The selected text will be removed from the document.
 
- Pasting ****
+ - **Pasting**
+  
  Move the cursor to the location where you want to paste the text, and then say "paste." The text you cut earlier will be inserted at the cursor location.
 
 
 
-## Exclusive design principles
+## Exclusive design principles 🖥️
 Exclusive designs are principles implemented when designing for people who are not mostly included when making designs example peopele with disabilitie. 
 
 
