@@ -69,6 +69,20 @@ Exclusive designs are principles implemented when designing for people who are n
 
 
 
+## Testing 
+
+  ###  Test 1 
+  I made a simple web page with some design features to see how the user selects, copies and pastes text on their tablet, as I didn't know what kind of tablet they use or how they use it. I chose to make a nature-themed website because the user likes nature according to the project documentation, hoping that it would be more interesting and enjoyable for them.
+  
+  <img width="955" alt="image" src="https://user-images.githubusercontent.com/90154152/233330248-52fe7825-81b9-4121-9bf2-64bd681a7d76.png">
+  
+  
+ ### Testing with a tablet
+
+I decided to borrow a tablet from my friend to test it myself since I haven't met Nicollette yet. I realized that selecting text with the tablet was annoying and didn't go as fast as I wanted it to. I also realized that I could only select one word but not a sentence. Additionally, I had to tap on the text with the pen two to three times before I could select a text.
+
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/90154152/233343755-86aff585-2f17-49fe-b190-5aec627b8531.png">
+
 ### Study Situation
 We have to first understand and study people with disabilites.You cannot design for people with disabilities if you don't understand them and try to know the situation they are in. 
 
