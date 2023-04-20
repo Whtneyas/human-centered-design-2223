@@ -59,6 +59,16 @@ So before i test my design with Nicollette i thooght of some possible solutions 
 Exclusive designs are principles implemented when designing for people who are not mostly included when making designs example peopele with disabilitie. 
 
 
+
+## Trials 
+
+### Clipboard 
+ i  tried using the Clipboard api to try copying and pasting but unfortunately it didnt work cos the cliip api doesn't work old all browser and older browsers. I tried to experiment first in codepen before i work on it in Vscode: 
+ 
+ <img width="886" alt="image" src="https://user-images.githubusercontent.com/90154152/233311763-8d2928f9-4023-41fc-b511-b49010a563c8.png">
+
+
+
 ### Study Situation
 We have to first understand and study people with disabilites.You cannot design for people with disabilities if you don't understand them and try to know the situation they are in. 
 
