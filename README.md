@@ -121,7 +121,7 @@ Answer: She said she uses the speak recognition for almost everything. She uses 
 9. Waarom is er voor spraak gekozen?
 
 
-### Insights
+### Insights :book
 
 After lsitening to her and having to make her take the test. I got to know a few things that i can implement in my next prototype
 
@@ -133,7 +133,17 @@ After lsitening to her and having to make her take the test. I got to know a few
 - Instructing with speech for scrolling left and right.
 - Finding an easier way for her not to scroll for long.
 - Enlarging the target touch point so that clicking of buttons become easier for her.
-- 
+
+
+
+### Feedback- Eric'📜
+     My team and i sat with Eric to discuss how the test with Nicollette went. We all made known what are frustrations are. I , on the other hand also talked about how the test went and how i find it more difficult and confusing to find a better solution after the meeting with Nicollete. 
+     
+     ### Tips from Eric🔖
+     - Keeping our design simple.
+     - It is more about your findings during every test but not the best solution
+     
+     
 
 
 
