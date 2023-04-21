@@ -83,8 +83,71 @@ I decided to borrow a tablet from my friend to test it myself since I haven't me
 
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/90154152/233343755-86aff585-2f17-49fe-b190-5aec627b8531.png">
 
+
+## Testing with Nicollette. 
+My team and i first had a discussion with her about the project and proceeded with asking the questions we prepared to ask her. One of the team member also brought a drawingtablet so that nicollette can test on it. 
+
+### Answers for the questions
+
+
+1. What type of tablet are you currently using? 
+
+Answer: Nicollette didn't really remember the type of drawing tablet she has. So we had to mention the different brands of drawing tablets and finally got to know that she using **Wacom Tablet**
+
+
+1. After testing the product that we have made. What went well and what went bad. 
+
+ Answer: She didn't like the fact that she has to click on a button to activate a speech recognition. She told us about how she puts on a speech recognition. She said she puts it's on in the morning and in the eveing she puts it off. She didn't like the fact that she has to always click a button when she wants to speak in the microfone or give instructions to the microfone.
+  
+
+2. Why are you using a tablet and not a mouse?
+
+Answer : She said she cannot work with her nouse at all because it involves scrlling and clicking which she is unfortunately not able to do so uses basically a drawing tablet as a mousE. With the drawing tablet she has to hold the pen without clicking anything with her hands but rather use her pen. On the pen, are two buttons which can be used for selecting a text so she uses that.
+
+4. What are you able to do and what can't you do? 
+  
+5. Wat voor hinder heb je? 
+
+6. What type of files and apps do you use 🗂️📑
+
+Answer : She said she uses mostly word documents and she also selects folders en place them in other folders. Selcting of folders isn't something she finds difficult but having to select multiple folders and to scroll at the same time is what she finds difficult because she can't hold press the pen for long.
+
+7. How do you currently use the speech recognition? 🔊
+
+Answer: She said she uses the speak recognition for almost everything. She uses it for scrolling, for sending text messages ect. For navigation she tries as much as possible to use the mouse. She also finds it uncomfortable to use the speech recognition in public places since it is going to get people's attention making people aorund her and herself feeling uncomfortable
+
+8. Er bestaat er alkopieer en plakken op tekentabletten. How werkt het bij u? 
+
+9. Waarom is er voor spraak gekozen?
+
+
+### Insights
+
+After lsitening to her and having to make her take the test. I got to know a few things that i can implement in my next prototype
+
+- She loves nature so i think it is advisable to make a website that is about nature 
+- She works more with folders so i think making a website that require selecting and replacing folders.
+- Copying without scrolling for long.
+- She prefers reading in light mode than darkmode.
+- She prefers the text being bigger cos she has a bad eye sight.
+- Instructing with speech for scrolling left and right.
+- Finding an easier way for her not to scroll for long.
+- Enlarging the target touch point so that clicking of buttons become easier for her.
+- 
+
+
+
+
+
+
+
+
+
+
 ### Study Situation
-We have to first understand and study people with disabilites.You cannot design for people with disabilities if you don't understand them and try to know the situation they are in. 
+We have to first understand and study people with disabilites.You cannot design for people with disabilities if you don't understand them and try to know the situation they are in. I was able to execute this principle by getting to know Nicollete and talking to her one on one.
+I observed how she uses speech recognition for sending messages. Eighty percent of the time Nicollete uses speech recognition for almost all her things when interacting with a device.She also finds it difficult with scrolling for along time. She says sometimes it just doesn't work with scrolling. 
+
 
 
 ### Ignore Conventions
