@@ -144,6 +144,27 @@ After lsitening to her and having to make her take the test. I got to know a few
      - It is more about your findings during every test but not the best solution
      
      
+ 
+ 
+ ## Test 2 
+ 
+ I wasn't able to test during this week because i was not feeling well and couldn't work further on what i had last week but what i was  able to do was to was to observe what other had and how she was tested them. 
+ 
+ 
+ 
+ 
+ 
+### Insights
+
+- She doesn't want to scroll for a long time 
+- None of the speak recognition was working so i think it is better to try fix that part 
+- She would like to be able to select a paragh and not a whole text. 
+- She is not really good in english so it is better to write the text in Dutch since it is her mother language
+
+ 
+
+     
+     
 
 
 
